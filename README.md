@@ -1,6 +1,6 @@
 # ParkingSite_js
 
-#### 📢 Spring Framework, BootStrap를 사용하여 게시판을 개발하였다.
+#### 📢 JavaScript, Node.js, MongoDB, Python을 사용하여 사용자 위치 기반 (GPS) 주차장 안내 웹사이트 개발     
 🖥️ 개발환경 : JavaScript, Node.js, express, MongoDB, Python3.5, CSS3, Visual Studio Code, 공공데이터API, Naver Maps API      
 
 📜 사용자 위치 기반 주차장 안내 웹사이트    
